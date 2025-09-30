@@ -1,0 +1,63 @@
+leftnav:
+- identifier: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 10
+- identifier: 19c2bb22-ca39-4924-ad40-b02527ed2dcd
+  name: "Platf\xF2m MIT-Ayiti"
+  pageRef: "/external-resources/platf\xF2m-mit-ayiti_19c2bb22-ca39-4924-ad40-b02527ed2dcd"
+  weight: 20
+- identifier: c615407e-f9bf-467e-9cc2-f25ccc39119f
+  name: MIT-Haiti Initiative
+  pageRef: /external-resources/mit-haiti-initiative_c615407e-f9bf-467e-9cc2-f25ccc39119f
+  weight: 30
+- identifier: be597ce7-c131-4373-b3dc-ae70b45dda49
+  name: Why the MIT-Haiti Initiative Was Founded
+  pageRef: /pages/why-the-mit-initiatve-was-founded
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  weight: 10
+- identifier: f05ccba1-0d45-4f19-aba9-8b2843b08e20
+  name: How the Initiative Has Developed
+  pageRef: /pages/the-development-of-the-initiative
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  weight: 20
+- identifier: 37503aa9-2f94-4904-9882-206f2563391e
+  name: "What Is Platf\xF2m MIT-Ayiti?"
+  pageRef: /pages/what-is-platfom-mit-ayiti
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  weight: 30
+- identifier: ef793a62-68cb-4371-8547-2af4483a7033
+  name: Mother Tongue as a Necessary Tool for Active-Learning Pedagogy
+  pageRef: /pages/mother-tongue-pedagogy-as-active-learning-pedagogy
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  weight: 40
+- identifier: 4919bc89-f7a9-4580-b1a3-e0a8c78caeae
+  name: Potential for Ongoing Collaboration
+  pageRef: /pages/potential-for-ongoing-collaboration
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  weight: 50
+- identifier: 4f6e3dea-3fe3-4a58-bcf2-1fc6798aa6c5
+  name: "Ki rezon ki lak\xF2z lansman Inisyativ MIT-Ayiti?"
+  pageRef: /pages/ki-rezon-ki-lakoz-lansman-inisyativ-mit-ayiti
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  weight: 60
+- identifier: 71bc63a1-d56e-4928-8649-289a4a29cb84
+  name: Ki jan Inisyativ la devlope?
+  pageRef: /pages/ki-jan-inisyativ-la-devlope
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  weight: 70
+- identifier: 5e004465-832a-41cf-8a45-889d58410172
+  name: "Ki sa ki Platf\xF2m MIT-Ayiti?"
+  pageRef: /pages/ki-sa-ki-platfom-mit-ayiti
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  weight: 80
+- identifier: b5498631-932f-4fb5-bbef-70e9df97c765
+  name: "Lang manman k\xF2m zouti ki neses\xE8 pou aprantisaj aktif"
+  pageRef: /pages/lang-manman-kom-zouti-ki-nesese-pou-aprantisaj-aktif
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  weight: 90
+- identifier: 1b84e129-855b-453f-8af8-fa1457d5c33f
+  name: "Op\xF2tinite pou kolaborasyon ki dirab"
+  pageRef: /pages/opotinite-pou-kolaborasyon-ki-dirab
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  weight: 100
